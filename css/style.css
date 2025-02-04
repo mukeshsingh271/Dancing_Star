@@ -305,17 +305,17 @@ nav ul li ul li a{
 	position: relative;
 	padding-left: 470px;
 }
+
 .about_text li{
 	list-style: none;
 	text-decoration: none;
-	color: #222 !important
+	color: #222 !important;
 	text-decoration: none;
 	box-sizing: border-box;
 	font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
     padding-left:10px;
-    align-item: center;
     justify-content: center;
 
 }
@@ -656,7 +656,7 @@ html,body{
 .slider .card h1{
 	background-color: #f6466c;
 	font-size: 2.5rem;
-	border-radius: 10px
+	border-radius: 10px;
 	top:0;
 	left:0;
 	color:#fff;
@@ -1146,8 +1146,6 @@ html,body{
 }
 
 
-}
-
 .blog_event .b_card .b_class-img{
     position: relative;
     overflow: hidden;
@@ -1265,7 +1263,7 @@ html,body{
 .ins_slider .ins_card h1{
 	background-color: #f6466c;
 	font-size: 2.5rem;
-	border-radius: 10px
+	border-radius: 10px;
 	top:0;
 	left:0;
 	color:#fff;
@@ -1738,9 +1736,6 @@ html,body{
 	padding-right:0px;
 	text-align: center;
 }
-.add_items {
-	/*border: 1px solid red;*/
-}
 
 .add_items h4{
 	font-size: 24px;
@@ -1794,10 +1789,6 @@ html,body{
     transition: 0.5s;
 }
 
-.news_letter{
-	/*border:1px solid red;*/
-}
-
 .news_letter h4{
 	font-size: 24px;
 	font-weight: bolder;
@@ -1818,10 +1809,10 @@ html,body{
 	margin-left:0px;
 	margin-bottom: 20px;
 }
+
 .news_letter .news_form{
 	border-radius: 50%;
 	size: 100px;
-
 }
 
 .news_letter .news_form .form-control{
