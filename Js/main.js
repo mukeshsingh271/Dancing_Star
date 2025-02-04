@@ -12,19 +12,19 @@ new WOW().init();
     });
 
 
-    $(".head_carousel").owlCarousel({
-        animateOut: 'slideOutDown',
-        items: 1,
-        autoplay: true,
-        smartSpeed: 1000,
-        dots: true,
-        loop: true,
-        nav : true,
-        navText : [
-            '<i class="bi bi-arrow-left"></i>',
-            '<i class="bi bi-arrow-right"></i>'
-        ],
-    });
+    // $(".head_carousel").owlCarousel({
+    //     animateOut: 'slideOutDown',
+    //     items: 1,
+    //     autoplay: true,
+    //     smartSpeed: 1000,
+    //     dots: true,
+    //     loop: true,
+    //     nav : true,
+    //     navText : [
+    //         '<i class="bi bi-arrow-left"></i>',
+    //         '<i class="bi bi-arrow-right"></i>'
+    //     ],
+    // });
 
 
 
